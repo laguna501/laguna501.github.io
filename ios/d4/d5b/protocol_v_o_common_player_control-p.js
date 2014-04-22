@@ -1,0 +1,27 @@
+var protocol_v_o_common_player_control_p =
+[
+    [ "close", "d4/d5b/protocol_v_o_common_player_control-p.html#aa63490a55d47bd31c6df46f42e2f6bd0", null ],
+    [ "init:initParam:", "d4/d5b/protocol_v_o_common_player_control-p.html#a64da67f2739a1b60b227b9c64cdd5c2b", null ],
+    [ "init:initParam:initParamFlag:", "d4/d5b/protocol_v_o_common_player_control-p.html#ad685027c537cbbce514d83024d7b7bae", null ],
+    [ "mute", "d4/d5b/protocol_v_o_common_player_control-p.html#aa4711c18b9f58bcfd2d2ef5e2a35b329", null ],
+    [ "notifyViewSizeChanged", "d4/d5b/protocol_v_o_common_player_control-p.html#a237c915913c076db890785410ad14a9d", null ],
+    [ "open:flag:sourceType:initParam:initParamFlag:", "d4/d5b/protocol_v_o_common_player_control-p.html#a8214c824a19510e67498f5851ea089b7", null ],
+    [ "open:flag:sourceType:openParam:", "d4/d5b/protocol_v_o_common_player_control-p.html#a020d014367b449c8f41f1902a43bc817", null ],
+    [ "pause", "d4/d5b/protocol_v_o_common_player_control-p.html#a0e12f7460b8f65a0cb48c8cc86a2f8d2", null ],
+    [ "redrawVideo", "d4/d5b/protocol_v_o_common_player_control-p.html#adb05532e4cbed22b2a0529b9a4726480", null ],
+    [ "resume", "d4/d5b/protocol_v_o_common_player_control-p.html#af649d36c299af503869cfb386ee0601d", null ],
+    [ "setDisplayArea:", "d4/d5b/protocol_v_o_common_player_control-p.html#ad762e0fbf35f8488afc2ab6523a53756", null ],
+    [ "setOnEventDelegate:", "d4/d5b/protocol_v_o_common_player_control-p.html#a6477aaafb6d3d18a850ed84f7062bce0", null ],
+    [ "setPosition:", "d4/d5b/protocol_v_o_common_player_control-p.html#a6cc4312d9af69d050e463943770f5e69", null ],
+    [ "setScreenBrightness:", "d4/d5b/protocol_v_o_common_player_control-p.html#a477bcc7ce544d4fd50e023850615df28", null ],
+    [ "setVideoAspectRatio:", "d4/d5b/protocol_v_o_common_player_control-p.html#ab460692b14fa9a1f223f0a810364bb9b", null ],
+    [ "setView:", "d4/d5b/protocol_v_o_common_player_control-p.html#a5d6696655906656a64e2b650c43c45c2", null ],
+    [ "setVolume:", "d4/d5b/protocol_v_o_common_player_control-p.html#a4a94a73639e13595b16d46febd4cc2b7", null ],
+    [ "start", "d4/d5b/protocol_v_o_common_player_control-p.html#ae85cf907ccb27bd94d31bcb09ee514fc", null ],
+    [ "startSEINotification:", "d4/d5b/protocol_v_o_common_player_control-p.html#a49ef2ea9d6eb0b76db8b18d2546b34d1", null ],
+    [ "stop", "d4/d5b/protocol_v_o_common_player_control-p.html#a245c7380b3dfdde929e1dcb7cbf6b170", null ],
+    [ "stopSEINotification", "d4/d5b/protocol_v_o_common_player_control-p.html#a00ca073372ed8fa08c5643a30f9c8959", null ],
+    [ "suspend:", "d4/d5b/protocol_v_o_common_player_control-p.html#ac4a8094b59d78b2dd055be3c2cf1e4d1", null ],
+    [ "unmute", "d4/d5b/protocol_v_o_common_player_control-p.html#aa3bda40e7136e3cc3bcce942ef2bec05", null ],
+    [ "updateSourceURL:", "d4/d5b/protocol_v_o_common_player_control-p.html#aa6832be42918cb14ecd00976c78cb553", null ]
+];
