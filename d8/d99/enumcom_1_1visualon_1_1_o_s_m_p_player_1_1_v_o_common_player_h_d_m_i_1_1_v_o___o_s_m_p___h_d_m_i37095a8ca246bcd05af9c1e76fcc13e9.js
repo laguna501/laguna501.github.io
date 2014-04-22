@@ -1,0 +1,10 @@
+var enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9 =
+[
+    [ "VO_OSMP_HDMI_CONNECTION_STATUS", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a428c5b96c8421a971cb5691bc0298d64", null ],
+    [ "getValue", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a01591719f8ec8014040482d896118d30", null ],
+    [ "valueOf", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a75be8e9455a01f089b7c0e6bf218ba2f", null ],
+    [ "VO_OSMP_HDMISTATE_CONNECT", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#aa3912ddfd8c857660c319c892e7bf027", null ],
+    [ "VO_OSMP_HDMISTATE_DISCONNECT", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a2d1725da6a2b12a1aa2ef2b3aed6aef9", null ],
+    [ "VO_OSMP_HDMISTATE_MAX", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a5c1cbf985e4d5f159680be59c0dc0da7", null ],
+    [ "VO_OSMP_HDMISTATE_UNKNOWN", "d8/d99/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1_v_o___o_s_m_p___h_d_m_i37095a8ca246bcd05af9c1e76fcc13e9.html#a70ee3b88143c8559a79c73826f918041", null ]
+];

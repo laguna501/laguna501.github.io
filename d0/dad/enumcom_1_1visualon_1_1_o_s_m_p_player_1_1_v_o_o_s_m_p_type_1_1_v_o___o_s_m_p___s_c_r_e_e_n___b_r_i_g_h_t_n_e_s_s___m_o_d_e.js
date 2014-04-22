@@ -1,0 +1,9 @@
+var enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e =
+[
+    [ "VO_OSMP_SCREEN_BRIGHTNESS_MODE", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#a2ff0f6f842c103afd12e4e5d9871dbe6", null ],
+    [ "getValue", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#a4b12f6a3c4bca006e3fd5d4467e1955d", null ],
+    [ "valueOf", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#ab75fe7d85f5a5b383e87a9a3c463568e", null ],
+    [ "VO_OSMP_SCREEN_BRIGHTNESS_MODE_AUTOMATIC", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#a5125c965f71edeaadb2d958a1f85b408", null ],
+    [ "VO_OSMP_SCREEN_BRIGHTNESS_MODE_MANUAL", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#a6ce4e879e3831ed60fb3bce82cae2b5d", null ],
+    [ "VO_OSMP_SCREEN_BRIGHTNESS_MODE_MAX", "d0/dad/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_c_r_e_e_n___b_r_i_g_h_t_n_e_s_s___m_o_d_e.html#ae644b8eedf22d671e55b814e1804f9f0", null ]
+];

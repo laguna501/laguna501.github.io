@@ -1,0 +1,27 @@
+var interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection =
+[
+    [ "VOOSMPAssetIndex", "d8/d64/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection_1_1_v_o_o_s_m_p_asset_index.html", "d8/d64/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection_1_1_v_o_o_s_m_p_asset_index" ],
+    [ "VOOSMPAssetProperty", "d0/d90/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection_1_1_v_o_o_s_m_p_asset_property.html", "d0/d90/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection_1_1_v_o_o_s_m_p_asset_property" ],
+    [ "clearSelection", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#ab500a3a80be5354c2f703b3b57921b06", null ],
+    [ "commitSelection", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#aded5df5f18bc88813059f51129a73b99", null ],
+    [ "getAudioCount", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#ad2b9b3c1e51098531c02d0e5afc8b846", null ],
+    [ "getAudioProperty", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a5b99bfa16a4d4e1e61b6387e66f5c8a2", null ],
+    [ "getCurrentSelection", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a4a152ab699f36923b4506f378dff198f", null ],
+    [ "getPlayingAsset", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#af53ddd5bef70ac39c297e1b9eaa5b78e", null ],
+    [ "getSubtitleCount", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#abe71399cd6fc7fbcb4e23567f88dd90f", null ],
+    [ "getSubtitleProperty", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#afa462cc6d06b75a6b59faa9c5c8e272a", null ],
+    [ "getVideoCount", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a26ef424b94efc444e45753186f45433d", null ],
+    [ "getVideoProperty", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a9f4f7d233f43af191b142c0a1681b2b4", null ],
+    [ "isAudioAvailable", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a702ad87defdfbee370b4164b208282e0", null ],
+    [ "isSubtitleAvailable", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a3cbf892907aa059bc023d457ca9089d3", null ],
+    [ "isVideoAvailable", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#abb5536c9be8a148beff20213354be853", null ],
+    [ "selectAudio", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a2eee5f7cac34cbc06c78fd48d73095c0", null ],
+    [ "selectSubtitle", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#aaa861958fb7cda66bd942be58f1585ec", null ],
+    [ "selectVideo", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#ab13c63db19d73372915d68eba251721f", null ],
+    [ "setDefaultAudioLanguage", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a2132029cb4f4bba7de12db56fd370b06", null ],
+    [ "setDefaultSubtitleLanguage", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a001e29830860dce63f183e732f2681c5", null ],
+    [ "setPreferredAudioLanguage", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a1130b8a16e6bb3122a08f911a377f470", null ],
+    [ "setPreferredSubtitleLanguage", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#a904b5b0f06a341ba4e2cb43e5421a9ee", null ],
+    [ "VO_OSMP_ASSET_AUTO_SELECTED", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#afea9b907a477da38301f5aec08cbbeae", null ],
+    [ "VO_OSMP_ASSET_NOT_SELECTED", "de/d5a/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_asset_selection.html#aedd041326d5d365888994946df9ab27e", null ]
+];

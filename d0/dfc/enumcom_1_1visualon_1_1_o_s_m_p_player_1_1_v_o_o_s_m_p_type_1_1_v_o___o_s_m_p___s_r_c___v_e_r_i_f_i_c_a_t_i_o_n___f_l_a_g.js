@@ -1,0 +1,9 @@
+var enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g =
+[
+    [ "VO_OSMP_SRC_VERIFICATION_FLAG", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#a3c2a14f6d5f1ad1afcbdb85b63359605", null ],
+    [ "getValue", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#a64162a1fca7843592cc079d4315ca79c", null ],
+    [ "valueOf", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#a17f8f1da24913bcc7c1b0f710c9725d4", null ],
+    [ "VO_OSMP_SRC_VERIFICATION_MAX", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#ad4d6a8b8779847a359bb3a4485769331", null ],
+    [ "VO_OSMP_SRC_VERIFICATION_REQUEST_STRING", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#a2093b275d9877ae045b4c9d21efb72d9", null ],
+    [ "VO_OSMP_SRC_VERIFICATION_USERNAME_PASSWORD", "d0/dfc/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_type_1_1_v_o___o_s_m_p___s_r_c___v_e_r_i_f_i_c_a_t_i_o_n___f_l_a_g.html#aa71df8f719917833d1c45d9bcbc4ac8f", null ]
+];

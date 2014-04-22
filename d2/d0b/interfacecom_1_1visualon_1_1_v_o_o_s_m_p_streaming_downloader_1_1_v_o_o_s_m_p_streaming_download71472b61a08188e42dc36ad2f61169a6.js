@@ -1,0 +1,5 @@
+var interfacecom_1_1visualon_1_1_v_o_o_s_m_p_streaming_downloader_1_1_v_o_o_s_m_p_streaming_download71472b61a08188e42dc36ad2f61169a6 =
+[
+    [ "getDownloadedStreamDuration", "d2/d0b/interfacecom_1_1visualon_1_1_v_o_o_s_m_p_streaming_downloader_1_1_v_o_o_s_m_p_streaming_download71472b61a08188e42dc36ad2f61169a6.html#a52657569bdd7b2c80ebaaf721cb3b298", null ],
+    [ "getTotalStreamDuration", "d2/d0b/interfacecom_1_1visualon_1_1_v_o_o_s_m_p_streaming_downloader_1_1_v_o_o_s_m_p_streaming_download71472b61a08188e42dc36ad2f61169a6.html#a065ab16568ecb1af5e8d2e1b624c92c6", null ]
+];

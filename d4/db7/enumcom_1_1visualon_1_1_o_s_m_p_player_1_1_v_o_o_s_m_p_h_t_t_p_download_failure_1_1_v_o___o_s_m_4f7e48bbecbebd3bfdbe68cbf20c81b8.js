@@ -1,0 +1,11 @@
+var enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8 =
+[
+    [ "VO_OSMP_HTTP_DOWNLOAD_FAILURE_REASON", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a28d51151766594f80b30f45b1e969cb7", null ],
+    [ "getValue", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a4b86d9fe49657e317359b2256f7ddca3", null ],
+    [ "valueOf", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a468a4ca0c8afbf7efd8535c88e99245c", null ],
+    [ "VO_OSMP_HTTP_CLIENT_ERROR", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a217336bca520b0d0968410f587cfa390", null ],
+    [ "VO_OSMP_HTTP_CONNECT_FAILED", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a62521a3c7e3aab962bc5a1801e49e585", null ],
+    [ "VO_OSMP_HTTP_DOWNLOAD_FAILURE_REASON_MAX", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a937a486e5786a3d4d237c06a071b7b80", null ],
+    [ "VO_OSMP_HTTP_INVALID_RESPONSE", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#a372104d7d6628da9190a31edfb980286", null ],
+    [ "VO_OSMP_HTTP_SERVER_ERROR", "d4/db7/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_o_s_m_p_h_t_t_p_download_failure_1_1_v_o___o_s_m_4f7e48bbecbebd3bfdbe68cbf20c81b8.html#acb76e40f62215a87feb6d543fcf79e0b", null ]
+];

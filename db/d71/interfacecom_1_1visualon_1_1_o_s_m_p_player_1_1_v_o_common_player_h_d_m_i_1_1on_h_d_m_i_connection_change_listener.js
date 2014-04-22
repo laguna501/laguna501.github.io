@@ -1,0 +1,4 @@
+var interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1on_h_d_m_i_connection_change_listener =
+[
+    [ "onHDMIStateChangeEvent", "db/d71/interfacecom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_h_d_m_i_1_1on_h_d_m_i_connection_change_listener.html#aebdb2b5c06bfcff53d5e7054d417caf4", null ]
+];

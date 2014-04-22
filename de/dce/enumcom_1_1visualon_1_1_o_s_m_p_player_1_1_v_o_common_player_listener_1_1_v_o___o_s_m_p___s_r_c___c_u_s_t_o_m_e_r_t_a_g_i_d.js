@@ -1,0 +1,8 @@
+var enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d =
+[
+    [ "VO_OSMP_SRC_CUSTOMERTAGID", "de/dce/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d.html#a1df1b758b1c4e36bb48a95a6f8bd890d", null ],
+    [ "getValue", "de/dce/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d.html#accd0ffaf659581c8405b32081519c3da", null ],
+    [ "valueOf", "de/dce/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d.html#aac3dc305a438313f8a30ff8decc3a980", null ],
+    [ "VO_OSMP_SRC_CUSTOMERTAGID_MAX", "de/dce/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d.html#ad704162c7c38388b332182838cad8be6", null ],
+    [ "VO_OSMP_SRC_CUSTOMERTAGID_TIMEDTAG", "de/dce/enumcom_1_1visualon_1_1_o_s_m_p_player_1_1_v_o_common_player_listener_1_1_v_o___o_s_m_p___s_r_c___c_u_s_t_o_m_e_r_t_a_g_i_d.html#a52f735bca6cadc93954df004aaa4b6f6", null ]
+];
